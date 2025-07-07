@@ -1,4 +1,4 @@
-## 👨‍💻 Profissional em Transição de Carreira | Apaixonado por Tecnologia e Desenvolvimento de Software
+## Profissional em Transição de Carreira | Apaixonado por Tecnologia e Desenvolvimento de Software
 
 Sou um profissional em transição de carreira, movido pela curiosidade e pela paixão por tecnologia. Tenho me dedicado ao estudo e desenvolvimento de soluções utilizando **HTML**, **CSS**, **JavaScript** e **Python**, com foco em código limpo, funcional e eficiente.
 
