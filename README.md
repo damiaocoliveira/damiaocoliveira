@@ -1,4 +1,4 @@
-Apaixonado por Tecnologia.
+### Apaixonado por Tecnologia.
 
 Sou um profissional em transição de carreira, movido pela curiosidade e pela paixão por tecnologia. Tenho me dedicado ao estudo e desenvolvimento de soluções utilizando **HTML**, **CSS**, **JavaScript** e **Python**, com foco em código limpo, funcional e eficiente.
 
